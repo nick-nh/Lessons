@@ -6,5 +6,7 @@ function main()
 
 	d = 6
 	e = 7
-	
+
+	a = 's'
+	d = 'e'
 end
